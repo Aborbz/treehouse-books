@@ -1,0 +1,5 @@
+# the streamed books on the library shelves, one folder a line, in shelf order
+albinus
+potters-survey
+birds-of-america
+animal-locomotion-animals

@@ -7,3 +7,5 @@ color-notation
 werner-colours
 italian-majolica
 morse-japanese-pottery
+constructive-anatomy
+costume-historique

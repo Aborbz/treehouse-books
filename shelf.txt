@@ -9,3 +9,5 @@ italian-majolica
 morse-japanese-pottery
 constructive-anatomy
 costume-historique
+human-figure
+practice-of-oil-painting

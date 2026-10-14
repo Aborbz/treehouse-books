@@ -3,3 +3,5 @@ albinus
 potters-survey
 birds-of-america
 animal-locomotion-animals
+color-notation
+werner-colours

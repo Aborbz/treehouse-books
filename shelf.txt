@@ -5,3 +5,5 @@ birds-of-america
 animal-locomotion-animals
 color-notation
 werner-colours
+italian-majolica
+morse-japanese-pottery

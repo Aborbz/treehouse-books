@@ -11,3 +11,11 @@ constructive-anatomy
 costume-historique
 human-figure
 practice-of-oil-painting
+pp-pottery-reference
+pp-anatomy
+pp-anatomy-legs
+pp-fashion-reference
+pp-anatomy-head
+pp-anatomy-arms-hands
+pp-anatomy-torso
+pp-architecture
